@@ -1,2 +1,12 @@
 # Aboytes_Compu_I
-Este repositorio es para Compu I 2023-1
+
+## Esta es una parte de la cancion: **The garden of earthly delights** - *Apocalypse Orchestra* 
+
+Born from the void and still pristine   
+Tranquil, vast, and cold   
+See the orb of blue and green  
+When he spake the light shone gold  
+
+## Areas de interes: 
+* Astronomia
+* Fisica Teorica 
