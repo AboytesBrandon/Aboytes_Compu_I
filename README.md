@@ -10,3 +10,7 @@ When he spake the light shone gold
 ## Áreas de interés: 
 * Astronomía
 * Física Teórica 
+
+## Materias que me cuestan mucho trabajo .-. 
+* Computación I
+* Microcontroladores 
