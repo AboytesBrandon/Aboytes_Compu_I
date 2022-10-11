@@ -99,7 +99,6 @@ No regresa ningún valor.
 template <typename matriz>
 void ImprimirSolucion(matriz &miMatriz)
 {
-    //cout << "\n";
     cout << "Solucion:" << endl;
     cout << "x0 = "  << miMatriz[0][3] << endl;
     cout << "x1 = " << miMatriz[1][3] << endl;
@@ -131,7 +130,7 @@ void GaussJordan(matriz &miMatriz)
     {
         if (miMatriz[i][i] == 0)
         {
-            cout << "\nNo tiene solucion.";
+            cout << "No tiene solucion.";
             return;
         }
     }
